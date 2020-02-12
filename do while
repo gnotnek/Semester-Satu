@@ -1,0 +1,14 @@
+#include (iostream)
+#include (conhio)
+using namespace std;
+int main()
+{
+    int a=1;
+    int b;
+    cout << "masukan nomor: ";
+    cin >> b
+    do
+    {
+    cout << a << "tenang";
+    }(while a<9);
+}
